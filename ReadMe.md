@@ -6,6 +6,6 @@ Title: "Class Git Example"
         
 ##Code Example
 
-'''{r}
+```{r}
 x <- rnorm(100)
-'''
+```
