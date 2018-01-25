@@ -1,0 +1,37 @@
+---
+title: "1-25-18 Time Series"
+output: html_notebook
+---
+
+http://smudgerville.github.io/04.html#1
+
+Differencing & ACF
+
+```{r}
+
+```
+
+Modeling Overview
+
+```{r}
+
+```
+
+General Methods & Toolbox Review
+
+```{r}
+
+```
+
+Exponential smoothing
+
+```{r}
+
+```
+
+ARIMA models
+
+```{r}
+
+```
+
